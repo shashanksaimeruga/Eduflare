@@ -1,0 +1,28 @@
+[06-Oct-2024 17:58:53 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 17:59:07 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:02:19 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:09:01 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:09:05 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:09:08 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:09:47 UTC] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 22
+[06-Oct-2024 18:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php:39
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 39
+[06-Oct-2024 18:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php:39
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 39
+[06-Oct-2024 18:12:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php:46) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/userRegister.php on line 49
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:04 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:07 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[17-Oct-2024 12:41:08 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 130
+[24-Oct-2024 13:20:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 15
+[24-Oct-2024 13:20:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/index.php on line 15
+[29-Oct-2024 11:42:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/viewCourse.php on line 325
+[29-Oct-2024 16:26:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Student-Dashboard/categoryVideos.php on line 227

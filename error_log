@@ -1,0 +1,63 @@
+[05-Oct-2024 06:24:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'touramp_foodcab'@'localhost' (using password: YES) in /home1/raadh5xq/public_html/aahantechnologies.com/connection.php on line 2
+[29-Oct-2024 07:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 21
+[29-Oct-2024 08:22:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 65
+[29-Oct-2024 09:15:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 65
+[29-Oct-2024 09:16:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 65
+[29-Oct-2024 09:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:65
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 65
+[29-Oct-2024 09:26:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 68
+[29-Oct-2024 10:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 68
+[30-Oct-2024 05:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 68
+[30-Oct-2024 05:28:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:68
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 68
+[30-Oct-2024 05:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 21
+[30-Oct-2024 05:44:42 UTC] PHP Notice:  Undefined variable: mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 5
+[30-Oct-2024 05:45:25 UTC] PHP Notice:  Undefined variable: mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 25
+[30-Oct-2024 05:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 25
+[30-Oct-2024 05:46:25 UTC] PHP Notice:  Undefined variable: mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 25
+[30-Oct-2024 05:46:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:25
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 25
+[30-Oct-2024 06:17:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:21) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 43
+[30-Oct-2024 06:23:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:21) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 43
+[30-Oct-2024 06:31:26 UTC] Debug: Match found
+[30-Oct-2024 06:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php:21) in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/resetPassword.php on line 44
+[30-Oct-2024 06:34:20 UTC] Debug: Match found
+[30-Oct-2024 06:37:04 UTC] Debug: Match found
+[30-Oct-2024 06:52:56 UTC] Debug: Match found
+[30-Oct-2024 08:23:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'touramp_foodcab'@'localhost' (using password: YES) in /home1/raadh5xq/public_html/aahantechnologies.com/connection.php on line 2
+[30-Oct-2024 08:23:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'touramp_foodcab'@'localhost' (using password: YES) in /home1/raadh5xq/public_html/aahantechnologies.com/connection.php on line 2
+[30-Oct-2024 08:23:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'touramp_foodcab'@'localhost' (using password: YES) in /home1/raadh5xq/public_html/aahantechnologies.com/connection.php on line 2
+[30-Oct-2024 08:23:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'touramp_foodcab'@'localhost' (using password: YES) in /home1/raadh5xq/public_html/aahantechnologies.com/connection.php on line 2

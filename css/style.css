@@ -1,0 +1,41 @@
+/** @format */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: inter;
+}
+.banner_section {
+  /*background-image: url(images/eduflar-bg.png);*/
+  background-image: url(https://aahantechnologies.com/Stage3/images/eduflar-bg.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.dropdown-menu {
+  left: -141px !important;
+}
+.signup_btn:hover{
+    color:black;
+}
+.btn:hover{
+    color: black;
+}
+
+@media screen and (max-width: 600px) {
+  .card {
+    margin-top: 20px;
+  }
+  .banner_section {
+    height: 25vh;
+  }
+  .contact-form {
+    margin-top: 20px;
+  }
+}

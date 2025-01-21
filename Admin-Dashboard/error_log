@@ -1,0 +1,67 @@
+[01-Oct-2024 14:30:25 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:30:25 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:30:34 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:30:34 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:31:29 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:31:29 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:31:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:31:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[01-Oct-2024 14:31:57 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:31:57 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:31:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:31:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[01-Oct-2024 14:32:16 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:32:16 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:32:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:32:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[01-Oct-2024 14:32:38 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:32:38 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 3
+[01-Oct-2024 14:32:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:32:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[01-Oct-2024 14:36:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:36:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[01-Oct-2024 14:36:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 14
+[01-Oct-2024 14:36:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/login.php on line 16
+[14-Oct-2024 13:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/coursesList.php:164
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/coursesList.php on line 164
+[15-Oct-2024 10:07:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cleanInput() in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/addCategory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/addCategory.php on line 15
+[15-Oct-2024 10:35:48 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[15-Oct-2024 10:37:00 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[15-Oct-2024 10:37:16 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[15-Oct-2024 10:37:47 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[15-Oct-2024 10:37:59 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[15-Oct-2024 10:38:01 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:07:42 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:08:30 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:13:07 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:16:10 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:16:19 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:56:55 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:58:13 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:58:53 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 07:58:55 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:47 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:48 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:49 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:49 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:51 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:06:52 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:07:10 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:07:52 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:07:53 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 136
+[16-Oct-2024 08:21:23 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 08:23:25 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 09:59:48 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 10:00:00 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 10:00:21 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 10:00:28 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[16-Oct-2024 10:00:34 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[17-Oct-2024 15:54:47 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[17-Oct-2024 15:56:59 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[17-Oct-2024 15:57:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
+[17-Oct-2024 15:57:40 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home1/raadh5xq/public_html/aahantechnologies.com/Stage3/Admin-Dashboard/categoriesList.php on line 137
